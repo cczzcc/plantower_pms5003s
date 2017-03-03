@@ -1,0 +1,2 @@
+# plantower_pms5003s
+试用Arduino，获取攀藤PMS5005S(G5S)空气质量传感器采集的数据并上传到Domoticz
